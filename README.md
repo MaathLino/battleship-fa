@@ -1,4 +1,4 @@
-#BattleShip FA 2.0 GOTY Edition
+BattleShip FA 2.0 GOTY Edition
 ===============
 
 The Battleship FA is a free and open-source battleship game written in Python 3.5.
